@@ -1,0 +1,46 @@
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\bin\Debug\QL_NET.exe.config
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\bin\Debug\QL_NET.exe
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\bin\Debug\QL_NET.pdb
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmDonViTinh.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.Properties.Resources.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.csproj.GenerateResource.cache
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.exe
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.pdb
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmMatHang.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmLoaiPhong.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmPhong.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmNhaCC.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmNhanVien.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmNhapHang.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmChiTietHoaDonNhap.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmBanHang.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmOrder.resources
+C:\Users\FPT SHOP KM4\Desktop\Học năm 3\Lập trình net căn bản\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmDichVu.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\bin\Debug\QL_NET.exe.config
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\bin\Debug\QL_NET.exe
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\bin\Debug\QL_NET.pdb
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.csproj.AssemblyReference.cache
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmBanHang.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmChiTietHoaDonNhap.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmDonViTinh.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmMatHang.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmLoaiPhong.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmNhaCC.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmNhanVien.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmNhapHang.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmOrder.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmPhong.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.Properties.Resources.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.csproj.GenerateResource.cache
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.csproj.CoreCompileInputs.cache
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.exe
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.pdb
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmMain.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmDangNhap.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmTonKho.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmDoanhThu.resources
+C:\Users\huya2\OneDrive\Máy tính\Bài Tập lớn\QL_NET\QL_NET\obj\Debug\QL_NET.frmDoiMatKhau.resources
